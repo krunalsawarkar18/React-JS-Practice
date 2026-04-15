@@ -1,3 +1,9 @@
+👤 Author 
+
+Krunal Sawarkar
+
+Email: [krunalsawarkar2004@gmail.com]
+
 # React.js Practice Portfolio
 
 A professional React portfolio repository showcasing practical, real-world frontend application development and modern React skills. This collection is built to impress recruiters and hiring managers with clean, functional projects that demonstrate mastery of React, TypeScript, Vite, modern CSS, hooks, routing, state management, and full-stack thinking.
